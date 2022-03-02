@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x991472E08e9b8A8141cC8A39e9349b986De9f76f",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x991472E08e9b8A8141cC8A39e9349b986De9f76f",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4 
+  },
+  "NFT_NAME": "ATTM",
+  "SYMBOL": "ATTM",
+  "MAX_SUPPLY": 6000,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/#",
+  "SHOW_BACKGROUND": true
+}
